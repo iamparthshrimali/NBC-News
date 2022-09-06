@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NBC-News/static/css/main.e6c13ad2.css",
+    "main.js": "/NBC-News/static/js/main.283bf754.js",
+    "static/js/787.998b4c01.chunk.js": "/NBC-News/static/js/787.998b4c01.chunk.js",
+    "index.html": "/NBC-News/index.html",
+    "main.e6c13ad2.css.map": "/NBC-News/static/css/main.e6c13ad2.css.map",
+    "main.283bf754.js.map": "/NBC-News/static/js/main.283bf754.js.map",
+    "787.998b4c01.chunk.js.map": "/NBC-News/static/js/787.998b4c01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.283bf754.js"
+  ]
+}
